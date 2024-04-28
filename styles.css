@@ -1,0 +1,38 @@
+body {
+    color: rgb(10, 8, 43);
+    background-color: aliceblue;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container-fluid {
+    margin: 3rem;
+    padding: 2rem;
+    border: 3px solid rgb(96, 183, 241);
+    border-radius: 1.5rem;
+    background-color: rgb(96, 183, 241);
+}
+
+h3.day-label {
+    font-weight: bolder;
+    font-size: x-large;
+    color: red;
+}
+
+.container-fluid#Header {
+    text-align: center;
+    
+}
+
+.container-fluid#Header h3 {
+    font-weight: 800;
+    font-size: xx-large
+}
+
+.m-plus-rounded-1c-regular {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
